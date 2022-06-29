@@ -1,3 +1,8 @@
 Moje meno je Martin, mam 23 rokov
 Studujem FIIT STU
 Chodil som na gymnazium
+
+Meno mojho brata je Igor, ma 12 rokov
+Studuje na ZS na ktorej som studoval aj ja
+
+Na autocommit
