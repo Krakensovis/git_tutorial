@@ -2,3 +2,5 @@ pristup_do_databazy.txt
 
 data/*
 !data/ako_na_data.txt
+
+*.txt
